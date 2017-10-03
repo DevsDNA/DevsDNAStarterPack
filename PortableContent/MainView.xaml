@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<base:BaseReactiveContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+                              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+                              x:TypeArguments="main:MainViewModel"
+                              xmlns:base="clr-namespace:$rootnamespace$.Base"                              
+                              xmlns:i18n="clr-namespace:$rootnamespace$.XamlExtensions"  
+                              xmlns:main="clr-namespace:$rootnamespace$.Features.Main"                              
+                              x:Class="$rootnamespace$.Features.Main.MainView"
+                              x:Name="MainView">
+
+    <base:BaseReactiveContentPage.Resources>
+        <ResourceDictionary>
+            
+        </ResourceDictionary>
+    </base:BaseReactiveContentPage.Resources>
+
+    <Grid>
+        
+    </Grid>
+
+</base:BaseReactiveContentPage>
