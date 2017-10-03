@@ -14,7 +14,7 @@
 		public static string AppName => throw new NotImplementedException();
 
 		/// <summary>
-		/// Swagger can be found at: http://iotmm.azurewebsites.net/swagger/ui/index
+		/// APIURl key
 		/// </summary>
 		/// <value>The API URL.</value>
 		public static string ApiUrl => throw new NotImplementedException();
