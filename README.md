@@ -3,6 +3,8 @@
 A starter package to get all you need when you start a new project for Xamarin Forms
 You can include starter files to build your project, you can use this nugets packages:
 
+[**Previous**]
+
 [**Core**](https://www.nuget.org/packages/DevsDNAStarterPack.Core/)
 
 [**Android Platform**](https://www.nuget.org/packages/DevsDNAStarterPack.Droid/)
